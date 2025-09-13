@@ -1,0 +1,22 @@
+VOLTRIC TECHNICAL DOCUMENT
+
+Overview   
+App Name: Voltric 
+Version: 1.0
+Platform & OS Compatibility 
+Voltric Version 1.0 is compatible with the following platforms and operating systems:
+Platform	- Android
+Minimum OS - Android 7.0
+Version	Notes -	Fully optimized for Android smartphones and tablets
+
+Architecture Pattern
+Clean Architecture — A layered software design approach that separates code into distinct layers (Entities, Use Cases, Interface Adapters, Frameworks/Drivers), ensuring clear separation of concerns, testability, maintainability, and independence from frameworks, UI, and databases.
+Technology Stack
+Programming Languages: Kotlin 
+•	Kotlin — Primary language for Android app development, chosen for its conciseness, safety features, and modern syntax.
+Frameworks & Libraries:
+•	Material Icons — For adding scalable system icons to Android apps
+•	Accompanist Pager — For building horizontal/vertical swipeable layouts in Jetpack Compose
+•	Proguard — For code shrinking, obfuscation, and optimization in Android builds
+•	Jetpack Compose — For modern declarative UI development
+
